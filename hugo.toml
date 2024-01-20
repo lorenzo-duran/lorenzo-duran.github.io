@@ -1,0 +1,24 @@
+theme = "awesome-identity"
+baseURL = "lorenzo-duran.github.io"
+title = "Lorenzo Duran - Software Engineer"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait-default.jpg"
+  firstname = "Lorenzo"
+  lastname = "Duran"
+  title = "Software Engineer"
+  bio = """Current Software Engineer at Simform. With a decade of experience specializing in font‑end development. a person who likes to customize the
+development environment and adores Linux and OSX. Interested in devising a better problem‑solving method for challenging tasks, and learning
+new technologies and tools if the need arises.
+  """
+
+[params.contacts]
+  email = "lorenzoantonio.duran46@gmail.com"
+  github = "lorenzo-duran"
+
+## Footer Configurations
+[params.footer]
+  copyright = "©2024 Lorenzo Duran. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
